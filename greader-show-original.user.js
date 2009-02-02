@@ -40,5 +40,4 @@ function GRT_key(event) {
   return true;
 }
 
-//document.addEventListener("keypress", GRT_key, false);
 document.addEventListener("keydown", GRT_key, false);
